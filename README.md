@@ -5,7 +5,7 @@ I enjoy transforming complex data into actionable insights and developing AI mod
 ## 📚 Education
 
 - **Bachelors (BS), Data Science**  
-  [uNIVERSITY of Punjab], [2023-2027] – Present
+  [UNIVERSITY of Punjab], [2023-2027] – Present
   - Relevant Coursework: Machine Learning, Data Mining, Statistical Analysis,programming,Data structures and algorithms,Artifical Intelligence
  
 ## 🔧 Skills
