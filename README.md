@@ -11,15 +11,11 @@ I enjoy transforming complex data into actionable insights and developing AI mod
 ## 🔧 Skills
 
 - **Programming Languages:** Python,c++
--  **Data Analysis & Visualization:** Pandas,Numpy,matplotlib,Power BI,EXCEL
--  **Tools & Technologies:** Jupyter Notebook, Vs Code, Git ,GitHub
--  **Soft Skills:** Analytical Thinking, Problem-Solving, Collaboration
-
-## 🌱 Currently Learning
-
-- Data BASES
-- ARTIFICIAL iNTELLGENCE 
-- Tools for data science
+-  **libraries:** Pytorch,NLTK,Sciket_Learn,Pandas,Numpy,matplotlib,Seaborn,BeautifulSoap
+-  **Tools & Technologies:** Jupyter Notebook, Vs Code, Git ,GitHub,Docker
+-  **DataBases:** MYSQL,POSTGRESQL,SQL
+-  **AI/ML:** Machine Leaning,Deep learning,Nlp,RAG
+  
   ## 📫 How to Reach Me
 
 - **Email:** ch.shahzaibfraz@gmial.com
