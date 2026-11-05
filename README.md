@@ -113,7 +113,6 @@ I'm a final-year **B.S. Data Science** student at **PUCIT, University of the Pun
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Voice-to-Website AI** | Platform that turns voice input into websites, with auth, OTP email verification, migrations and CI | FastAPI · PostgreSQL + pgvector · SQLAlchemy · Alembic · React · GitHub Actions |
 | **Multi-Agent Coding Assistant** | Multi-agent system for planning, writing and reviewing code | LangGraph · LangChain · FastAPI |
 
 <sub>Add links to your repos here, for example `[Voice-to-Website AI](https://github.com/Shahzaib-Fraz/Voice-to-Website-AI)`.</sub>
@@ -142,23 +141,6 @@ Sep 2023 – Apr 2027 (Expected)
 ![Microsoft](https://img.shields.io/badge/Foundations_of_Python-Microsoft-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
 ![Google](https://img.shields.io/badge/Crash_Course_on_Python-Google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![IBM](https://img.shields.io/badge/Tools_for_Data_Science-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shahzaib-Fraz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib-Fraz&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Shahzaib-Fraz&theme=tokyonight&hide_border=true" width="65%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shahzaib-Fraz&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-</div>
 
 <br/>
 
