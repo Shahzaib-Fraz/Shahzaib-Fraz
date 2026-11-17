@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Shahzaib%20Fraz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Web3%20Explorer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Shahzaib%20Fraz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Mlops%20&descAlignY=58&descSize=20" width="100%"/>
 
 
 <a href="https://www.linkedin.com/in/shahzaib-fraz/">
